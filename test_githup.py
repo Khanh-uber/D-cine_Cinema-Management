@@ -1,0 +1,1 @@
+print("Xin chao 4s")
